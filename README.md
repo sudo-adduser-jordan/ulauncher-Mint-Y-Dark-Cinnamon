@@ -1,6 +1,7 @@
 # Mint-Y-Dark-Green theme for ULauncher
 
 _Created for:_ [Linux Mint Cinnamon Edition](https://www.linuxmint.com/download.php)
+
 _Icon Pack:_ [Windows 11 Dark ](https://www.cinnamon-look.org/p/2106379/)
 
 ## Installation
