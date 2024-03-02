@@ -4,12 +4,12 @@ A theme for ULauncher that goes with Mint-Y-Dark Cinnamon & GTK theme by Linux M
 
 ## Installation
 
-Copy or git clone this repo to 
+Copy or git clone this repo to `~/.config/ulauncher/user-themes/`
 
 ```
 cd ~/.config/ulauncher/user-themes/
-
 ```
+
 ```
 git clone https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-green.git 
 ```
