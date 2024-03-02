@@ -36,7 +36,7 @@
 {
     caret-color: @caret_color;
     color: @input_color;
-    border: solid 2px #316B41;
+    border: solid 2px #35A854;
     border-radius: 1px;
     background-color: #404040
 }
