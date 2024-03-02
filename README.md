@@ -1,6 +1,6 @@
 # Mint-Y-Dark-Green theme for ULauncher
 
-A theme for ULauncher that goes with Mint-Y-Dark Cinnamon & GTK theme by Linux Mint
+A theme for ULauncher created for Linux Mint Cinnamon Edition
 
 ## Installation
 
